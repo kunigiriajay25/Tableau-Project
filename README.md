@@ -16,3 +16,4 @@ This project is a Tableau dashboard built to visualize and analyze sales, profit
 ## 🔧Tool Used
 - Tableau
 ## Dashboard
+![image_alt](https://github.com/kunigiriajay25/Tableau-Project/blob/main/Screenshot%202025-11-29%20102513.png)
